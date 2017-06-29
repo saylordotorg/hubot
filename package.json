@@ -21,7 +21,7 @@
     "async": ">=0.1.0 <1.0.0",
     "chalk": "^1.0.0",
     "cline": "^0.8.2",
-    "coffee-script": "1.6.3",
+    "coffee-script": "^1.6.3",
     "connect-multiparty": "^1.2.5",
     "express": "^3.21.2",
     "hubot-catme": "^1.0.0",
