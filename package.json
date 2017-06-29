@@ -24,6 +24,7 @@
     "coffee-script": "1.6.3",
     "connect-multiparty": "^1.2.5",
     "express": "^3.21.2",
+    "hubot-catme": "^1.0.0",
     "hubot-jenkins": "^1.0.2",
     "log": "1.4.0",
     "optparse": "1.0.4",
