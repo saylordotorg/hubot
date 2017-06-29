@@ -27,6 +27,7 @@
     "hubot-catme": "^1.0.0",
     "hubot-help": "^0.2.2",
     "hubot-jenkins": "^1.0.2",
+    "hubot-slack": "^4.3.4",
     "log": "1.4.0",
     "optparse": "1.0.4",
     "scoped-http-client": "0.11.0"
